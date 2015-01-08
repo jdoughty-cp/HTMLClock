@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family : Times New Roman;
+}
+
+p {
+    font-size : 1em;
+    font-style : italic;
+}
+
+.greenText {
+    font-size : 2em;
+    color : green;
+    font-family : Arial;
+}
+
+div {
+  font-size : 4em;
+}
