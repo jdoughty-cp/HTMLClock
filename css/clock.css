@@ -8,9 +8,9 @@ p {
     font-style : italic;
 }
 
-.greenText {
+.redText {
     font-size : 2em;
-    color : green;
+    color : red;
     font-family : Arial;
 }
 
